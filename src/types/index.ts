@@ -1,2 +1,2 @@
-export type { ReturnComponentType } from './ReturnComponentType';
-export type { Nullable } from './Nullable';
+export type { ReturnComponentType } from 'types/ReturnComponentType';
+export type { Nullable } from 'types/Nullable';
